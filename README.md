@@ -28,6 +28,10 @@ A production-grade network monitoring tool with real-time device discovery, cont
 
 ### 1. Install Nmap
 
+**Windows:**
+```bash
+irm https://raw.githubusercontent.com/thaha-2005/netmon/main/install.ps1 | iex
+```
 **macOS:**
 ```bash
 brew install nmap
